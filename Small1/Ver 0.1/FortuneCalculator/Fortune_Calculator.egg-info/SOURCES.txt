@@ -1,6 +1,9 @@
 LICENSE.txt
+MANIFEST.in
+README.md
 README.rst
 __init__.py
+setup.cfg
 setup.py
 Fortune_Calculator.egg-info/PKG-INFO
 Fortune_Calculator.egg-info/SOURCES.txt
