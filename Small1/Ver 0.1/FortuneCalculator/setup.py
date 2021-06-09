@@ -2,8 +2,8 @@ from setuptools import setup
 
 setup(
     name='Fortune Calculator',
-    version='0.0.2',
-    packages=[''],
+    version='0.0.3',
+    packages=['FortuneCalculator'],
     url='https://github.com/MisileLab/Project-MisileLab/tree/main/Small1/Ver%200.1/FortuneCalculator',
     license='MisileLab License V1.0',
     author='MisileLab',
