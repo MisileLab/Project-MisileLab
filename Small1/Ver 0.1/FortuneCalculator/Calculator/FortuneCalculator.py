@@ -27,7 +27,7 @@ class Ore:
     AmyestCluster = 4
 
 class Calculator:
-    def __init__(self, fortunelevel, ore:Ore):
+    def __init__(self, fortunelevel:int or float, ore:Ore):
         self.fortune = fortunelevel
         self.ore = ore
 
