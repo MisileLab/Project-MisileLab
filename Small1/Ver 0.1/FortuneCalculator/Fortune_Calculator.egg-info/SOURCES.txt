@@ -5,6 +5,8 @@ README.rst
 __init__.py
 setup.cfg
 setup.py
+Calculator/FortuneCalculator.py
+Calculator/__init__.py
 Fortune_Calculator.egg-info/PKG-INFO
 Fortune_Calculator.egg-info/SOURCES.txt
 Fortune_Calculator.egg-info/dependency_links.txt
